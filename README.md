@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://portfolio-five-iota-46.vercel.app/](https://portfolio-five-iota-46.vercel.app/)
 
-- ⚡ Fun fact **Like to read books about porgramming than watching movies :/**
+- ⚡ Fun fact **Like to read books about programming than watch movies :/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
