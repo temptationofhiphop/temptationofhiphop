@@ -1,6 +1,8 @@
+[![MasterHead](https://i.postimg.cc/zXSwLWnB/rise.png)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">Frontend/Game Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/KjQzbZMZ/photo-2023-03-27-00-53-21.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temptationofhiphop&label=Profile%20views&color=0e75b6&style=flat" alt="temptationofhiphop" /> </p>
 
 - 🔭 I’m currently working on [HikeMate Project](https://github.com/Jing0985/HikeMate)
