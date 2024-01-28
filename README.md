@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [HikeMate Project](https://github.com/Jing0985/HikeMate)
 
-- 🌱 I’m currently learning **ReactJS, Data Analytics, Data Integration**
+- 🌱 I’m currently learning **ReactJS, Data Analytics, Data Integration, VueJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/temptationofhiphop](https://github.com/temptationofhiphop)
 
