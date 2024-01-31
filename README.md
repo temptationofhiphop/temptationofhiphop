@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [HikeMate Project](https://github.com/Jing0985/HikeMate)
   
-- 🎓 Graduated from Westminster University in Tashkent (Business Information Systems) and currently studying in WWU Münster (Information Systems)
+- 🎓 Graduated from Westminster University in Tashkent (Business Information Systems) and currently studying at WWU Münster (Information Systems)
 
 - 🌱 I’m currently learning **ReactJS, Data Analytics, Data Integration, VueJS**
 
