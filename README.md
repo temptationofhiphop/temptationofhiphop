@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temptationofhiphop&label=Profile%20views&color=0e75b6&style=flat" alt="temptationofhiphop" /> </p>
 
 - 🔭 I’m currently working on [HikeMate Project](https://github.com/Jing0985/HikeMate)
+  
+- 🎓 Graduated from Westminster University in Tashkent (Business Information Systems) and currently studying in WWU Münster (Information Systems)
 
 - 🌱 I’m currently learning **ReactJS, Data Analytics, Data Integration, VueJS**
 
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [https://portfolio-five-iota-46.vercel.app/](https://portfolio-five-iota-46.vercel.app/)
 
-- ⚡ Fun fact **Like to read books about programming than watch movies :/**
+- ⚡ **Why did the frontend developer go broke? They spent all their money on responsive design, but their wallet just couldn't adapt!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
